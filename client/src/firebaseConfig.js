@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getDatabase, ref, set, onValue } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAtV7eYf_o2D6dG1Cjg0wf4uLlZWcEqLLg",
-  authDomain: "myawesomeproject-6d9c2.firebaseapp.com",
-  databaseURL: "https://myawesomeproject-6d9c2-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "myawesomeproject-6d9c2",
-  storageBucket: "myawesomeproject-6d9c2.appspot.com",
-  messagingSenderId: "368464392262",
-  appId: "1:368464392262:web:3094f8271d47b0fe24da47",
-  measurementId: "G-G62TX3XK1V"
+  apiKey: "AIzaSyCIXk_jZ3tqc5yRti3TMY1C-ojCrjsiEDE",
+  authDomain: "smartled-5d29e.firebaseapp.com",
+  databaseURL: "https://smartled-5d29e-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "smartled-5d29e",
+  storageBucket: "smartled-5d29e.firebasestorage.app",
+  messagingSenderId: "784771224159",
+  appId: "1:784771224159:web:66df9f75df36353788c1ea",
+  measurementId: "G-3FYKGLG078"
 };
 
 const app = initializeApp(firebaseConfig);

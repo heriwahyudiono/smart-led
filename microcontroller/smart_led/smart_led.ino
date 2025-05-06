@@ -4,8 +4,8 @@
 #define WIFI_SSID "Galaxy A05"
 #define WIFI_PASSWORD "12345678"
 
-#define FIREBASE_HOST "myawesomeproject-6d9c2-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_API_KEY "AIzaSyAtV7eYf_o2D6dG1Cjg0wf4uLlZWcEqLLg"
+#define FIREBASE_HOST "smartled-5d29e-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_API_KEY "AIzaSyCIXk_jZ3tqc5yRti3TMY1C-ojCrjsiEDE"
 
 #define LED_PIN D1
 
